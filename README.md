@@ -5,3 +5,4 @@ Ejercicio resuelto del reto 4 de MisiónTic haciendo aplicación de Android con 
 Muestra de funcionamiento en Android:
 
 ![Tracker](https://github.com/dxmarquez/gps_grupo1_nrc2290/blob/main/Reto4.gif?raw=true)
+Video de verificacion: https://youtu.be/HRDcmOzJF8s
